@@ -1,5 +1,11 @@
 # Machine Learning Linear Regression Practice
 
+1. Linear regression with one variable
+Implement linear regression with one variable to predict profits for a food truck. 
+Considering different cities for opening a new outlet. The chain already has trucks in various cities and have data for profits and populations from the cities. Using this data to help you select which city to expand to next.
+
+2. Linear regression with multiple variables
+Implement linear regression with multiple variables to predict the prices of houses. Suppose you are selling your house and wanting to know what a good market price would be. One way to do this is to first collect information on recent houses sold and make a model of housing prices.
 ## Plotting the Data
 
 
